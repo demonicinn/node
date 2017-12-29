@@ -1,0 +1,6 @@
+
+function get(){
+	
+	alert('hi');
+	
+}
